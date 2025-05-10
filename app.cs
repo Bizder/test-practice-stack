@@ -11,6 +11,11 @@ namespace Stack
 		
 		public bool isEmpty()
 		{
+			
+		}
+
+		public int pop()
+		{
 
 		}
 	}	
